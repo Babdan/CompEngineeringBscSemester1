@@ -1,5 +1,5 @@
 
-public class IndividualExercise1 {
+public class Lab1 {
 
 	public static void main(String[] args) {
 			System.out.println("    J     A   V     V   A");
