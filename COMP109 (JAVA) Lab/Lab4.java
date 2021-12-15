@@ -3,7 +3,7 @@ import java.util.Scanner;// import Scanner class for user input
 /*A program that displays the shipping cost of a package
 * using a formula based on its weight.
 */
-public class Week4Lab {
+public class Lab4 {
 	//main method that obtains user input [that is sent to the printCost method that determines whether the package is shippable and its price]
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); //input opened
