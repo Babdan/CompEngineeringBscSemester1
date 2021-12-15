@@ -7,7 +7,7 @@ import java.util.Scanner; //Imports Scanner class for console/user input
 A program that allows the user to input the subtotal and the tip rate (in %) from the console, then computes the tip and the total
  */
 
-public class Week2LabHomework {
+public class Lab2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
