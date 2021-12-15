@@ -5,7 +5,7 @@ import java.util.Scanner; // import Scanner class for user input from the consol
 /* A program that checks whether a user-entered point is in the triangle 
  * [(-3,0)(0,4)(0,0)] or not and displays the result 
  */
-public class Week3Lab {
+public class Lab3 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		//prompts the user to enter the 2 coordinates for the point
